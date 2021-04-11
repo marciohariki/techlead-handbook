@@ -18,17 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ampli Awesome
-subtitle: Tudo sobre a equipe Engenharia
-email: engenharia@ampli.com.br
+title: Techlead Handbook
+subtitle: Uma ajuda jornada de se tornar um líder 
+email: marciohariki@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Uma ajuda jornada de se tornar um líder 
+baseurl: ""
+url: "https://techlead-handbook.hariki-labs.com"
+twitter_username: marciohariki
+github_username:  marciohariki
 repository: marciohariki/techlead-handbook.github.io
 
 # Build settings
@@ -47,30 +45,10 @@ breadcrumb_home_label : "Home"
 breadcrumb_separator  : "/"
 
 defaults:
-  # _posts
+  # resources
   - scope:
       path: ""
-      type: posts
+      type: default
     values:
-      show_date: true
-# =============
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+      layout: single
+      author_profile: true

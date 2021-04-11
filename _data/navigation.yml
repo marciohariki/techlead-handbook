@@ -1,5 +1,11 @@
 main:
-  - title: "Enginners"
-    url: /enginners/
-  - title: "Tech Leaders"
-    url: /tech-leaders/
+  - title: "Resources"
+    url: /resources/one-one
+
+docs:
+  - title: "1o1s"
+    url: /resources/one-one
+  - title: "Software development"
+    children:
+      - title: "Fundamentals" 
+        url: /resources/software-development/fundamentals
