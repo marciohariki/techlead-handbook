@@ -19,10 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Techlead Handbook
-subtitle: Uma ajuda jornada de se tornar um líder 
+subtitle: Uma ajuda na jornada de se tornar um líder 
 email: marciohariki@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Uma ajuda jornada de se tornar um líder 
+  Uma ajuda na jornada de se tornar um líder 
 baseurl: ""
 url: "https://techlead-handbook.hariki-labs.com"
 twitter_username: marciohariki

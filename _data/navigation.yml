@@ -9,3 +9,9 @@ docs:
     children:
       - title: "Fundamentals" 
         url: /resources/software-development/fundamentals
+      - title: "S.O.L.I.D." 
+        url: /resources/software-development/solid
+      - title: "Design Patterns" 
+        url: /resources/software-development/design-patterns
+      
+      
