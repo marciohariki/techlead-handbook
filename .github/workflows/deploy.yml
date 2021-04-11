@@ -20,7 +20,7 @@ jobs:
           with:
             folder: _site
             bucket: techlead-handbook.hariki-labs.com
-            bucket-region: sa-esat-1
+            bucket-region: sa-east-1
             dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
             invalidation: /
             delete-removed: true
