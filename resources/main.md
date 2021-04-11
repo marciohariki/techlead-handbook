@@ -9,7 +9,7 @@ sidebar:
   nav: "docs"
 ---
 
-## Resources
+## Introdução
 
 Aqui você vai encontrar referências para te ajudar a se tornar um tech lead melhor.
 
