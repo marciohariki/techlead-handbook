@@ -1,4 +1,5 @@
 # Techlead Handbook
+[![S3 Deploy](https://github.com/marciohariki/techlead-handbook/actions/workflows/deploy.yml/badge.svg)](https://github.com/marciohariki/techlead-handbook/actions/workflows/deploy.yml)
 
 ## Getting Started
 ```
