@@ -1,7 +1,7 @@
 ---
 title: "Resources"
-permalink: /resources
-excerpt: ""
+permalink: /resources/
+excerpt: "123"
 last_modified_at: 2021-04-11
 layout: single
 toc: true
