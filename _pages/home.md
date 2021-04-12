@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home-banner.jpg
   actions:
-    - label: "<i class='fas fa-book-reader'></i> Acesse por aqui"
+    - label: "<i class='fas fa-book-reader'></i> Comece por aqui"
       url: "/resources"
 excerpt: >
   Uma ajuda na jornada de se tornar um líder.<br />

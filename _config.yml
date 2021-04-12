@@ -29,6 +29,8 @@ twitter_username: marciohariki
 github_username:  marciohariki
 repository: marciohariki/techlead-handbook.github.io
 
+include:
+  - _pages
 # Build settings
 theme: minimal-mistakes-jekyll
 
