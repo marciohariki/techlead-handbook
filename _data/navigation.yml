@@ -1,20 +1,20 @@
 main:
   - title: "Resources"
-    url: /resources
+    url: /resources.html
 
 docs:
   - title: "1o1s"
-    url: /resources/one-one
+    url: /resources/one-one.html
   - title: "Software development"
     children:
       - title: "Fundamentals" 
-        url: /resources/software-development/fundamentals
+        url: /resources/software-development/fundamentals.html
       - title: "S.O.L.I.D." 
-        url: /resources/software-development/solid
+        url: /resources/software-development/solid.html
       - title: "Design Patterns" 
-        url: /resources/software-development/design-patterns
+        url: /resources/software-development/design-patterns.html
   - title:  "Product"
-    url: /resources/product
+    url: /resources/product.html
 
   
       
